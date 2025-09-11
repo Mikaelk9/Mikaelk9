@@ -10,6 +10,9 @@ Sou um desenvolvedor Front-End Jr. apaixonado por criar interfaces incríveis e 
   <img align="center" height="30" width="40" alt="REACT" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </div>
 
+#### Vamos conectar!
+[LinkedIn]() | [Twitter](link) | [Portfólio](link)
+
           
           
       
