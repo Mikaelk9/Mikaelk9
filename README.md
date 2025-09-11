@@ -1,4 +1,4 @@
-## Olá!👋 Sou o Mikael, um Dev Front-End Jr em formação!
+## Olá!👋 Sou o Mikael, um Dev Front-End Jr!
 
 Sou um desenvolvedor Front-End Jr. apaixonado por criar interfaces incríveis e funcionais. Atualmente, estou focado em aprender e trabalhar com **HTML**, **CSS**, **JavaScript** e **React**. Busco sempre me aprimorar e aprender novas tecnologias para criar melhores experiências para os usuários. Também sou um grande intusiasta para jogos, músicas e esportes 😄.
 
