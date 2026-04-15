@@ -8,7 +8,7 @@ Sou um desenvolvedor Front-End Jr. apaixonado por criar interfaces incríveis e 
 [LinkedIn](https://www.linkedin.com/in/mikael-torres) | [Portfólio](https://portfolio-brown-eta-66.vercel.app)
 ##
 
-<div style="inline_block"><br>
+<div style="display: inline-block;><br>
   <img align="center" height="30" width="40" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" height="30" width="40" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
