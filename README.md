@@ -14,6 +14,7 @@ Sou um desenvolvedor Front-End Jr. apaixonado por criar interfaces incríveis e 
   <img  height="30" width="40" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img  height="30" width="40" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img  height="30" width="40" alt="REACT" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img height="30" width="40" alt="TAILWIND" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 </div>
  
  
